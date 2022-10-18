@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tconwell
 - 👀 I’m interested in ... 
 - R programming
-- Web development with R, 
-- Data architecture & engineering, 
+- Web development with R
+- Data architecture & engineering
 - SQL
 
 <!---
